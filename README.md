@@ -6,4 +6,4 @@ In this tutorial, we'll learn how to create a simple page loading animation with
 
 **Available on Tuts+ April 2021**
 
-[View demo](https://geomarts.github.io/panels-animation/)
+[View demo](https://tutsplus.github.io/panels-animation/)
